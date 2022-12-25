@@ -62,9 +62,3 @@ app.post('/signup', function (req, res) {
 app.listen(port, () => {
   console.log(`server is running on port :${port}`);
 });
-
-//API KEYS
-//af3c0038c87131322bd5245c94fad3ab-us21
-
-//LIST ID
-//d3659b964d
